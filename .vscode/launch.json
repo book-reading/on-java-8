@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ToyTest",
+            "request": "launch",
+            "mainClass": "typeinfo.toys.ToyTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SweetShop",
+            "request": "launch",
+            "mainClass": "typeinfo.SweetShop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shapes",
+            "request": "launch",
+            "mainClass": "typeinfo.Shapes"
+        }
+    ]
+}
