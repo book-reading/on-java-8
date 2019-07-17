@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaExpressions",
+            "request": "launch",
+            "mainClass": "functional.LambdaExpressions",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Strategize",
+            "request": "launch",
+            "mainClass": "functional.Strategize",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shapes",
+            "request": "launch",
+            "mainClass": "typeinfo.Shapes",
+            "projectName": "code"
+        }
+    ]
+}
