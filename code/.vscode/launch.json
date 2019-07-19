@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CtorReference",
+            "request": "launch",
+            "mainClass": "functional.CtorReference",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiUnbound",
+            "request": "launch",
+            "mainClass": "functional.MultiUnbound",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnboundMethodReference",
+            "request": "launch",
+            "mainClass": "functional.UnboundMethodReference",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RunnableMethodReference",
             "request": "launch",
             "mainClass": "functional.RunnableMethodReference",
