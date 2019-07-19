@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RunnableMethodReference",
+            "request": "launch",
+            "mainClass": "functional.RunnableMethodReference",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodReferences",
+            "request": "launch",
+            "mainClass": "functional.MethodReferences",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecursiveFibonacci",
+            "request": "launch",
+            "mainClass": "functional.RecursiveFibonacci",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RecursiveFactorial",
+            "request": "launch",
+            "mainClass": "functional.RecursiveFactorial",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LambdaExpressions",
             "request": "launch",
             "mainClass": "functional.LambdaExpressions",
